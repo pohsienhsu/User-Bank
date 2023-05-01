@@ -1,11 +1,11 @@
 import React from 'react';
-import Adduser from './components/Users/Adduser';
+import AddUser from './components/Users/AddUser';
 
 
 function App() {
   return (
     <div>
-      <Adduser />
+      <AddUser />
     </div>
   );
 }
